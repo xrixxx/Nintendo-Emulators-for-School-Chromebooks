@@ -6,7 +6,7 @@ Download times will be deteriorated but thats the only method I've used that doe
 
 Do not mess around with the saves and code of the .z64 files unless you know what you are as they are quite easily messsed up
 
-
+For any questions about the DS emulator refer to https://github.com/44670/desmume-wasm, 
 
 This repository is for informational and educational purposes only.
 I do not own or claim ownership of any content related to Nintendo or its intellectual properties. All trademarks, logos, game titles, and related media referenced herein are the property of their respective owners.
