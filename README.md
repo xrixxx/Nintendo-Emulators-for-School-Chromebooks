@@ -2,9 +2,9 @@
 Small collection of proper Nintendo Emulators that are compatible to use on either Chrome or are compatible with ChromeOS. 
 
 If blocked by administration, to acess romsgames.net use utopiaweb.org or any unblocker site. 
-Download times will be deteriorated but thats the only method I've used that doesn't require a proxy, VPN, hardware modifications, etc.
+Download times will be deteriorated but thats the only method I've used that doesn't require a proxy, VPN, hardware modifications, or anything that may either hold you monetarily accountable or flag you by your administration
 
-Do not mess around with the saves and code of the .z64 files unless you know what you are as they are quite easily messsed up
+Do not mess around with the saves and code of anything, but especially the .z64 files unless you know what you are as they are quite easily messsed up
 
 For any questions about the DS emulator refer to https://github.com/44670/desmume-wasm, 
 
