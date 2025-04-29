@@ -13,4 +13,4 @@ I do not own or claim ownership of any content related to Nintendo or its intell
 No copyrighted material is distributed through this repository.
 This repository does not promote, condone, or facilitate piracy or illegal distribution of copyrighted material.
 Users are responsible for ensuring that their use of any referenced material complies with all applicable laws and copyright regulations.
-The Nintendo DS emulators cited in this repository are property of the creators of the DeSuME-wasm emulator.
+The Nintendo DS emulator cited in this repository are property of the creators of the DeSuME-wasm emulator.
