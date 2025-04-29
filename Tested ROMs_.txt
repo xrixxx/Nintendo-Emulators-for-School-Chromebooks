@@ -4,4 +4,3 @@ This is a Google Drive containing a few curated ROMs.
 Will be updated soon!
 
 Unrelated to Emulating: These ROMs work on R4 Cards and can be put on DS'
-See the Reddit megathread below
